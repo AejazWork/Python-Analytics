@@ -1,2 +1,2 @@
 # Python-Analytics
-Python Projects
+Python Projects (including Pandas, NumPy, Matplotlib)
